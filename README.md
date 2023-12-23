@@ -7,8 +7,8 @@ This repository contains the code and resources for a performance analysis proje
 The motivation behind this project is to understand the performance trade-offs between using an in-memory database like Redis and a traditional disk-based database like PostgreSQL, particularly in the context of high-volume data operations common in real-time analytics and web applications.
 
 ## Authors
-- [Author 1 Name]
-- [Author 2 Name]
+- Myles MacDonald
+- Jonathan Li
 
 ## Repository Structure
 
