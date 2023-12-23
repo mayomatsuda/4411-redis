@@ -6,5 +6,3 @@ Run `pip install -r requirements.txt` to install required Python libraries.
 Run `4411_redis_test.py` to run the test.
 
 Redis and PostgreSQL will have to be installed on your machine.
-
-Hello world
