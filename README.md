@@ -12,11 +12,9 @@ The motivation behind this project is to understand the performance trade-offs b
 
 ## Repository Structure
 
-- `games_details_202312161309.csv`: The dataset file containing details about various games.
 - `script.sql`: A SQL script for setting up the PostgreSQL database schema and initial data.
 - `requirements.txt`: A list of Python dependencies required to run the Python script.
 - `4411_redis_test.py`: The main Python script that performs performance tests comparing Redis and PostgreSQL.
-- `README.md`: This file, providing an overview and instructions for running the project.
 
 ## Installation and Setup
 
